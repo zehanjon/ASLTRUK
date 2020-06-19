@@ -1,4 +1,4 @@
-// soal 4 : perbaiki kode dibawah ini sehingga menghasilkan program menghitung biaya panggilan dengan benar//
+// soal 3 : perbaiki kode dibawah ini sehingga menghasilkan program menghitung biaya panggilan dengan benar//
 
 #include <stdlib.h>
 #include <stdio.h>
