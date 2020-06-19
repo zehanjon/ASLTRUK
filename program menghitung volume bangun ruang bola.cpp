@@ -1,4 +1,4 @@
-//soal 10 : buat program menghitung volume bangun ruang bola//
+//soal 9 : buat program menghitung volume bangun ruang bola//
 
 #include <stdio.h>
 #include <iostream>
